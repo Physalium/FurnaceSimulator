@@ -1,4 +1,4 @@
-package MyFristSwingApp;
+package SimpleSwingApp;
 
 import java.awt.*;
 

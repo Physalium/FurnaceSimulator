@@ -1,14 +1,10 @@
-package MyFristSwingApp;
-
-import com.sun.jdi.IntegerType;
+package SimpleSwingApp;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.time.Clock;
-import java.time.LocalTime;
-import java.util.TimerTask;
 
 public class MenuPanel extends JPanel implements ActionListener
 {

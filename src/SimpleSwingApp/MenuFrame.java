@@ -1,4 +1,4 @@
-package MyFristSwingApp;
+package SimpleSwingApp;
 
 import javax.swing.*;
 
